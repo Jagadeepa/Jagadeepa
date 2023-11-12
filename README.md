@@ -1,3 +1,4 @@
+![logo](https://github.com/Jagadeepa/Jagadeepa/blob/main/WhatsApp%20Image%202023-11-12%20at%2011.38.21%20AM.png)
 <h1 align="center">Hi 👋, I'm Jagadeepa Mohakud</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
